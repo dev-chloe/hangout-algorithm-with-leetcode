@@ -1,0 +1,8 @@
+{
+  "name": "hangout-algorithm-with-leetcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dev-chloe/hangout-algorithm-with-leetcode.git",
+  "author": "chloeKim <ksh4969@peanutoon.com>",
+  "license": "MIT"
+}
