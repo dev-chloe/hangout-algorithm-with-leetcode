@@ -15,3 +15,7 @@
 4. [**Longest Common Prefix**](https://leetcode.com/problems/longest-common-prefix/):
     [테스트코드](./4-Longest-Common-Prefix/Longest-Common-Prefix.spec.ts) +
     [풀이](./4-Longest-Common-Prefix/Longest-Common-Prefix.ts) / [메모](./4-Longest-Common-Prefix/README.md)
+
+5. [**Valid Parentheses**](https://leetcode.com/problems/valid-parentheses/):
+    [테스트코드](./5-Valid-Parentheses/Valid-Parentheses.spec.ts) +
+    [풀이](./5-Valid-Parentheses/Valid-Parentheses.ts) / [메모](./5-Valid-Parentheses/README.md)
