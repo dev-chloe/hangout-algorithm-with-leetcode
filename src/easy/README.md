@@ -19,3 +19,7 @@
 5. [**Valid Parentheses**](https://leetcode.com/problems/valid-parentheses/):
     [테스트코드](./5-Valid-Parentheses/Valid-Parentheses.spec.ts) +
     [풀이](./5-Valid-Parentheses/Valid-Parentheses.ts) / [메모](./5-Valid-Parentheses/README.md)
+
+6. [**Merge Two Sorted Lists**](https://leetcode.com/problems/merge-two-sorted-lists/):
+    [테스트코드](./6-Merge-Two-Sorted-Lists/Merge-Two-Sorted-Lists.spec.ts) +
+    [풀이](./6-Merge-Two-Sorted-Lists/Merge-Two-Sorted-Lists.ts) / [메모](./6-Merge-Two-Sorted-Lists/README.md)
