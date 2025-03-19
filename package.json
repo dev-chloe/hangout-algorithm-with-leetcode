@@ -1,0 +1,28 @@
+{
+  "name": "hangout-algorithm-with-leetcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dev-chloe/hangout-algorithm-with-leetcode.git",
+  "author": "chloeKim <ksh4969@peanutoon.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node",
+    "test": "jest",
+    "lint": "eslint . --ext .ts"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.22.0",
+    "@types/jest": "^29.5.14",
+    "@typescript-eslint/eslint-plugin": "^8.26.0",
+    "@typescript-eslint/parser": "^8.26.0",
+    "eslint": "^9.22.0",
+    "eslint-plugin-jest": "^28.11.0",
+    "eslint-plugin-react": "^7.37.4",
+    "globals": "^16.0.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2",
+    "typescript-eslint": "^8.26.0"
+  }
+}
