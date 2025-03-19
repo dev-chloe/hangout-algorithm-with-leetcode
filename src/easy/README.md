@@ -31,3 +31,7 @@
 8. [**Remove Element**](https://leetcode.com/problems/remove-element/):
     [테스트코드](./8-Remove-Element/Remove-Element.spec.ts) +
     [풀이](./8-Remove-Element/Remove-Element.ts)
+
+9. [**Find the Index of the First Occurrence in a String**](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/):
+    [테스트코드](./9-Find-the-Index-of-the-First-Occurrence-in-a-String/Find-the-Index-of-the-First-Occurrence-in-a-String.spec.ts) +
+    [풀이](./9-Find-the-Index-of-the-First-Occurrence-in-a-String/Find-the-Index-of-the-First-Occurrence-in-a-String.ts) / [메모](./9-Find-the-Index-of-the-First-Occurrence-in-a-String/README.md)
