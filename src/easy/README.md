@@ -27,3 +27,7 @@
 7. [**Remove Duplicates from Sorted Array**](https://leetcode.com/problems/remove-duplicates-from-sorted-array/):
     [테스트코드](./7-Remove-Duplicates-from-Sorted-Array/Remove-Duplicates-from-Sorted-Array.spec.ts) +
     [풀이](./7-Remove-Duplicates-from-Sorted-Array/Remove-Duplicates-from-Sorted-Array.ts) / [메모](./7-Remove-Duplicates-from-Sorted-Array/README.md)
+
+8. [**Remove Element**](https://leetcode.com/problems/remove-element/):
+    [테스트코드](./8-Remove-Element/Remove-Element.spec.ts) +
+    [풀이](./8-Remove-Element/Remove-Element.ts)
