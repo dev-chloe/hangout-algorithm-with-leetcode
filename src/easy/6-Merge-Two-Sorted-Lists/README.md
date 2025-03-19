@@ -1,4 +1,4 @@
-# 메모 - [Valid Parentheses](https://leetcode.com/problems/merge-two-sorted-lists/)
+# 메모 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 
 ## Linked List(연결 리스트)
 

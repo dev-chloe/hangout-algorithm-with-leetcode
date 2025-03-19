@@ -23,3 +23,7 @@
 6. [**Merge Two Sorted Lists**](https://leetcode.com/problems/merge-two-sorted-lists/):
     [테스트코드](./6-Merge-Two-Sorted-Lists/Merge-Two-Sorted-Lists.spec.ts) +
     [풀이](./6-Merge-Two-Sorted-Lists/Merge-Two-Sorted-Lists.ts) / [메모](./6-Merge-Two-Sorted-Lists/README.md)
+
+7. [**Remove Duplicates from Sorted Array**](https://leetcode.com/problems/remove-duplicates-from-sorted-array/):
+    [테스트코드](./7-Remove-Duplicates-from-Sorted-Array/Remove-Duplicates-from-Sorted-Array.spec.ts) +
+    [풀이](./7-Remove-Duplicates-from-Sorted-Array/Remove-Duplicates-from-Sorted-Array.ts) / [메모](./7-Remove-Duplicates-from-Sorted-Array/README.md)
