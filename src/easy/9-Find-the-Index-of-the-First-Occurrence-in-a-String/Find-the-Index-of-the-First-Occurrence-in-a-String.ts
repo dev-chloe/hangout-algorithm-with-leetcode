@@ -20,7 +20,7 @@ function strStr(haystack: string, needle: string): number {
 console.log("---------------------");
 console.log("1-1", strStr("sadbutsad", "sad")); // 0
 console.log("1-2", strStr("leetcode", "leeto")); // -1
-console.log("1-2", strStr("testthis", "stt")); // 2
+console.log("1-3", strStr("testthis", "stt")); // 2
 console.log("---------------------");
 
 export default strStr;

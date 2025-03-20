@@ -35,3 +35,7 @@
 9. [**Find the Index of the First Occurrence in a String**](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/):
     [테스트코드](./9-Find-the-Index-of-the-First-Occurrence-in-a-String/Find-the-Index-of-the-First-Occurrence-in-a-String.spec.ts) +
     [풀이](./9-Find-the-Index-of-the-First-Occurrence-in-a-String/Find-the-Index-of-the-First-Occurrence-in-a-String.ts) / [메모](./9-Find-the-Index-of-the-First-Occurrence-in-a-String/README.md)
+
+10. [**Search Insert Position**](https://leetcode.com/problems/search-insert-position/):
+    [테스트코드](./10-Search-Insert-Position/Search-Insert-Position.spec.ts) +
+    [풀이](./10-Search-Insert-Position/Search-Insert-Position.ts) / [메모](./10-Search-Insert-Position/README.md)

@@ -55,11 +55,11 @@ function searchInsertWithFor(nums: number[], target: number): number {
 console.log("---------------------");
 console.log("1-1", searchInsert([1, 3, 5, 6], 5)); // 2
 console.log("1-2", searchInsert([1, 3, 5, 6], 2)); // 1
-console.log("1-2", searchInsert([1, 3, 5, 6], 7)); // 4
+console.log("1-3", searchInsert([1, 3, 5, 6], 7)); // 4
 console.log("---------------------");
 console.log("2-1", searchInsertWithFor([1, 3, 5, 6], 5)); // 2
 console.log("2-2", searchInsertWithFor([1, 3, 5, 6], 2)); // 1
-console.log("2-2", searchInsertWithFor([1, 3, 5, 6], 7)); // 4
+console.log("2-3", searchInsertWithFor([1, 3, 5, 6], 7)); // 4
 console.log("---------------------");
 
 export { searchInsert, searchInsertWithFor };
