@@ -40,6 +40,10 @@
     [테스트코드](./10-Search-Insert-Position/Search-Insert-Position.spec.ts) +
     [풀이](./10-Search-Insert-Position/Search-Insert-Position.ts) / [메모](./10-Search-Insert-Position/README.md)
 
-10. [**Length of Last Word**](https://leetcode.com/problems/length-of-last-word/):
+11. [**Length of Last Word**](https://leetcode.com/problems/length-of-last-word/):
     [테스트코드](./11-Length-of-Last-Word/Length-of-Last-Word.spec.ts) +
     [풀이](./11-Length-of-Last-Word/Length-of-Last-Word.ts) / [메모](./11-Length-of-Last-Word/README.md)
+
+12. [**Plus One**](https://leetcode.com/problems/plus-one/):
+    [테스트코드](./12-Plus-One/Plus-One.spec.ts) +
+    [풀이](./12-Plus-One/Plus-One.ts) / [메모](./12-Plus-One/README.md)
