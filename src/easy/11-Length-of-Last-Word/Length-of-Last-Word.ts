@@ -41,7 +41,7 @@ console.log("---------------------");
 console.log("1-1", lengthOfLastWord("Hello World")); // 5
 console.log("1-2", lengthOfLastWord("   fly me   to   the moon  ")); // 4
 console.log("1-3", lengthOfLastWord("luffy is still joyboy")); // 6
-console.log("1-4", lengthOfLastWord("")); // 6
+console.log("1-4", lengthOfLastWord("")); // 0
 console.log("---------------------");
 console.log("2-1", lengthOfLastWordWithAt("Hello World")); // 5
 console.log("2-2", lengthOfLastWordWithAt("   fly me   to   the moon  ")); // 4
