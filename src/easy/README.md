@@ -47,3 +47,7 @@
 12. [**Plus One**](https://leetcode.com/problems/plus-one/):
     [테스트코드](./12-Plus-One/Plus-One.spec.ts) +
     [풀이](./12-Plus-One/Plus-One.ts) / [메모](./12-Plus-One/README.md)
+
+13. [**Add Binary**](https://leetcode.com/problems/add-binary/):
+    [테스트코드](./13-Add-Binary/Add-Binary.spec.ts) +
+    [풀이](./13-Add-Binary/Add-Binary.ts) / [메모](./13-Add-Binary/README.md)
