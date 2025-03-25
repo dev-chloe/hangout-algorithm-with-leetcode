@@ -51,3 +51,7 @@
 13. [**Add Binary**](https://leetcode.com/problems/add-binary/):
     [테스트코드](./13-Add-Binary/Add-Binary.spec.ts) +
     [풀이](./13-Add-Binary/Add-Binary.ts) / [메모](./13-Add-Binary/README.md)
+
+14. [**Sqrt(x)**](https://leetcode.com/problems/sqrtx/):
+    [테스트코드](./14-Sqrt-x/Sqrt-x.spec.ts) +
+    [풀이](./14-Sqrt-x/Sqrt-x.ts) / [메모](./14-Sqrt-x/README.md)
