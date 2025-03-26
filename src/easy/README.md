@@ -55,3 +55,7 @@
 14. [**Sqrt(x)**](https://leetcode.com/problems/sqrtx/):
     [테스트코드](./14-Sqrt-x/Sqrt-x.spec.ts) +
     [풀이](./14-Sqrt-x/Sqrt-x.ts) / [메모](./14-Sqrt-x/README.md)
+
+15. [**Climbing Stairs**](https://leetcode.com/problems/climbing-stairs/):
+    [테스트코드](./15-Climbing-Stairs/Climbing-Stairs.spec.ts) +
+    [풀이](./15-Climbing-Stairs/Climbing-Stairs.ts)

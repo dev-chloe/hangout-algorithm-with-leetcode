@@ -46,24 +46,6 @@ const list = {
 - 배열: 빠른 인덱스 접근이 필요할 때 (arr[3]처럼 바로 접근 가능)
 - 연결 리스트: 삽입/삭제가 빈번할 때 (특히 중간 삽입/삭제), 배열보다 동적 크기 조절이 쉽고, 중간 삽입/삭제가 빠름.
 
-> [대상 소스 코드](./Valid-Parentheses.ts#L25)
-
-`Record<Keys, Type>`는 **객체 타입을 정의하는 유틸리티 타입**. 속성 키가 Keys이고 속성 값이 Type인 객체 유형을 생성한다. 이 유틸리티는 한 타입의 프로퍼티를 다른 타입에 매핑하는 데 사용할 수 있다.
-
-```javascript
-// Record<string, string>은 키가 string이고, 값도 string인 객체를 의미
-const example: Record<string, string> = {
-  name: "Alice",
-  age: "25", // 숫자가 아니라 문자열이어야 함
-  country: "Korea",
-};
-
-const obj: Record<string, string> = {
-  key1: "value1",
-  key2: 123, // ❌ 오류! 숫자는 안 됨
-};
-```
-
 ## 재귀
 
 자신을 참조하고 호출하는 함수  
