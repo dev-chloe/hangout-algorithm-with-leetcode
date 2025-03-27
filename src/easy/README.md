@@ -59,3 +59,7 @@
 15. [**Climbing Stairs**](https://leetcode.com/problems/climbing-stairs/):
     [테스트코드](./15-Climbing-Stairs/Climbing-Stairs.spec.ts) +
     [풀이](./15-Climbing-Stairs/Climbing-Stairs.ts)
+
+16. [**Remove Duplicates from Sorted List**](https://leetcode.com/problems/remove-duplicates-from-sorted-list/):
+    [테스트코드](./16-Remove-Duplicates-from-Sorted-List/Remove-Duplicates-from-Sorted-List.spec.ts) +
+    [풀이](./16-Remove-Duplicates-from-Sorted-List/Remove-Duplicates-from-Sorted-List.ts)
