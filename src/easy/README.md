@@ -23,3 +23,43 @@
 6. [**Merge Two Sorted Lists**](https://leetcode.com/problems/merge-two-sorted-lists/):
     [테스트코드](./6-Merge-Two-Sorted-Lists/Merge-Two-Sorted-Lists.spec.ts) +
     [풀이](./6-Merge-Two-Sorted-Lists/Merge-Two-Sorted-Lists.ts) / [메모](./6-Merge-Two-Sorted-Lists/README.md)
+
+7. [**Remove Duplicates from Sorted Array**](https://leetcode.com/problems/remove-duplicates-from-sorted-array/):
+    [테스트코드](./7-Remove-Duplicates-from-Sorted-Array/Remove-Duplicates-from-Sorted-Array.spec.ts) +
+    [풀이](./7-Remove-Duplicates-from-Sorted-Array/Remove-Duplicates-from-Sorted-Array.ts) / [메모](./7-Remove-Duplicates-from-Sorted-Array/README.md)
+
+8. [**Remove Element**](https://leetcode.com/problems/remove-element/):
+    [테스트코드](./8-Remove-Element/Remove-Element.spec.ts) +
+    [풀이](./8-Remove-Element/Remove-Element.ts)
+
+9. [**Find the Index of the First Occurrence in a String**](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/):
+    [테스트코드](./9-Find-the-Index-of-the-First-Occurrence-in-a-String/Find-the-Index-of-the-First-Occurrence-in-a-String.spec.ts) +
+    [풀이](./9-Find-the-Index-of-the-First-Occurrence-in-a-String/Find-the-Index-of-the-First-Occurrence-in-a-String.ts) / [메모](./9-Find-the-Index-of-the-First-Occurrence-in-a-String/README.md)
+
+10. [**Search Insert Position**](https://leetcode.com/problems/search-insert-position/):
+    [테스트코드](./10-Search-Insert-Position/Search-Insert-Position.spec.ts) +
+    [풀이](./10-Search-Insert-Position/Search-Insert-Position.ts) / [메모](./10-Search-Insert-Position/README.md)
+
+11. [**Length of Last Word**](https://leetcode.com/problems/length-of-last-word/):
+    [테스트코드](./11-Length-of-Last-Word/Length-of-Last-Word.spec.ts) +
+    [풀이](./11-Length-of-Last-Word/Length-of-Last-Word.ts) / [메모](./11-Length-of-Last-Word/README.md)
+
+12. [**Plus One**](https://leetcode.com/problems/plus-one/):
+    [테스트코드](./12-Plus-One/Plus-One.spec.ts) +
+    [풀이](./12-Plus-One/Plus-One.ts) / [메모](./12-Plus-One/README.md)
+
+13. [**Add Binary**](https://leetcode.com/problems/add-binary/):
+    [테스트코드](./13-Add-Binary/Add-Binary.spec.ts) +
+    [풀이](./13-Add-Binary/Add-Binary.ts) / [메모](./13-Add-Binary/README.md)
+
+14. [**Sqrt(x)**](https://leetcode.com/problems/sqrtx/):
+    [테스트코드](./14-Sqrt-x/Sqrt-x.spec.ts) +
+    [풀이](./14-Sqrt-x/Sqrt-x.ts) / [메모](./14-Sqrt-x/README.md)
+
+15. [**Climbing Stairs**](https://leetcode.com/problems/climbing-stairs/):
+    [테스트코드](./15-Climbing-Stairs/Climbing-Stairs.spec.ts) +
+    [풀이](./15-Climbing-Stairs/Climbing-Stairs.ts)
+
+16. [**Remove Duplicates from Sorted List**](https://leetcode.com/problems/remove-duplicates-from-sorted-list/):
+    [테스트코드](./16-Remove-Duplicates-from-Sorted-List/Remove-Duplicates-from-Sorted-List.spec.ts) +
+    [풀이](./16-Remove-Duplicates-from-Sorted-List/Remove-Duplicates-from-Sorted-List.ts)
